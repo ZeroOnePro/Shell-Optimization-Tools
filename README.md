@@ -6,6 +6,8 @@
 
 - iTerm2 + oh my zsh
 
+- macOS Monterey 12.4
+
 ## 목적
 
 초기 로딩에 시간이 오래걸려서 최적화하려고함
